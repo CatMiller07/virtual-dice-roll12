@@ -1,5 +1,5 @@
 img{
-    width: 400px;
+    width: 200px;
     height:auto;
     margin: 0 auto;
     display:block;
@@ -14,10 +14,10 @@ body{
     background: -ms-linear-gradient(left, rgba(171,171,171,1) 0%, rgba(255,255,255,1) 72%, rgba(255,255,255,1) 100%);
     background: linear-gradient(to right, rgba(171,171,171,1) 0%, rgba(255,255,255,1) 72%, rgba(255,255,255,1) 100%);
 }
-#roll-val{
+#roll-val0,#roll-val1,#roll-val2,#roll-val3{
 	position: relative;
-	font-size: 2em;
+	font-size: 1.25em;
 	font-weight:bold;
-	bottom: 220px ;
-	margin-left: 47%
+	bottom: 118px ;
+	margin-left: 49%
 }
