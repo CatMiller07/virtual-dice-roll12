@@ -16,8 +16,9 @@ body{
 }
 #roll-val0,#roll-val1,#roll-val2,#roll-val3{
 	position: relative;
-	font-size: 1.25em;
+	font-size: 1.75em;
 	font-weight:bold;
-	bottom: 118px ;
+	bottom: 128px ;
+	align-content: center;
 	margin-left: 49%
 }
